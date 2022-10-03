@@ -1,2 +1,2 @@
 my git README.MD
-LearNING git and github
+-Learning git and github
